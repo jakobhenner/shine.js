@@ -1,5 +1,8 @@
 {
   "name": "shine.js",
+  "description": "Shine text effects",
+  "version": "1.0.0",
+  "main": "dist/shine.js",
   "engines": {
     "node": ">= 0.10.0"
   },
